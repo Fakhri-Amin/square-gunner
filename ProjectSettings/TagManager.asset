@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - RespawnTrigger
+  - CheckPoint
+  - Enemy
+  - Bullet
+  - Ground
+  - Ceiling
+  - Star
+  - EnemyBullet
+  - YellowEnemy
+  - RedEnemy
+  - END
+  - Health
+  - TutorialEnd
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - PostProcessing
+  - Player
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BG
+    uniqueID: 3752134819
+    locked: 0
+  - name: PlayerEnemy
+    uniqueID: 990177827
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
